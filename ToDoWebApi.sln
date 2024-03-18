@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoWebApi", "ToDoWebApi\ToDoWebApi.csproj", "{ABC62C63-43B1-4E90-B228-83A60F697260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABC62C63-43B1-4E90-B228-83A60F697260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABC62C63-43B1-4E90-B228-83A60F697260}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABC62C63-43B1-4E90-B228-83A60F697260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABC62C63-43B1-4E90-B228-83A60F697260}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E6A2D6-10B3-42C4-BEBC-5C6111D05897}
+	EndGlobalSection
+EndGlobal
